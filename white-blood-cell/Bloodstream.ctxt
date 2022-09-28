@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Bloodstream
+comment0.text=\r\n\ Die\ Blutbahn\ ist\ der\ Schauplatz\ f\u00FCr\ unser\ Szenario\ "White\ Blood\ Cell".\ \r\n\ Es\ ist\ der\ Ort,\ an\ dem\ Blutzellen,\ Bakterien\ und\ Viren\ herumschwimmen.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=Bloodstream()
+comment1.text=\r\n\ Konstruktor\:\ die\ Anfangsobjekte\ einrichten.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Erzeugt\ neue\ herumschwimmende\ Objekte\ in\ unregelm\u00E4\u00DFgen\ Abst\u00E4nden.\ \r\n
+comment3.params=points
+comment3.target=void\ addScore(int)
+comment4.params=
+comment4.target=void\ showScore()
+comment5.params=
+comment5.target=void\ showTime()
+comment6.params=
+comment6.target=void\ countTime()
+comment7.params=win
+comment7.target=void\ showEndMessage(boolean)
+comment8.params=
+comment8.target=void\ prepare()
+comment8.text=\r\n\ Bereitet\ die\ Welt\ f\u00FCr\ den\ Programmstart\ vor.\ In\ diesem\ Fall\:\ Erzeugt\ \r\n\ eine\ wei\u00DFe\ Blutzelle\ und\ die\ Begrenzung\ an\ den\ R\u00E4ndern\ der\ Blutbahn.\r\n
+numComments=9

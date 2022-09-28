@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Virus
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Virus\ here.\r\n\ \r\n\ @author\ Sandro\ Lenz\r\n\ @version\ 06.09.2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ Move\ from\ right\ to\ left\ and\ rotate\r\n
+numComments=2

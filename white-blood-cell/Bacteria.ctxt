@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bacteria
+comment0.text=\r\n\ Bakterien\ schwimmen\ in\ der\ Blutbahn.\ Sie\ sind\ b\u00F6sartig.\ Am\ besten\ vernichtest\ \r\n\ du\ sie,\ wenn\ du\ kannst.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=Bacteria()
+comment1.text=\r\n\ Konstruktor.\ Bisher\ nichts\ zu\ tun.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Schwimmen\ in\ der\ Blutbahn,\ dabei\ langsam\ rotieren.\ \r\n
+numComments=3

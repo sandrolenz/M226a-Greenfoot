@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lining
+comment0.text=\r\n\ Die\ Objekte\ f\u00FCr\ die\ Wandverkleidung\ -\ Lining\ -\ sind\ Objekte\ an\ den\ R\u00E4ndern\ der\ Vene.\ \r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Aktion\ -\ Langsam\ nach\ links\ bewegen.\r\n
+numComments=2
