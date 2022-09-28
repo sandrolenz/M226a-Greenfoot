@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Crab
+comment0.text=\r\n\ Diese\ Klasse\ definiert\ eine\ Krabbe.\ Krabben\ leben\ am\ Strand.\ Sie\ m\u00F6gen\ Sandw\u00FCrmer\ \r\n\ (sehr\ lecker,\ besonders\ die\ gr\u00FCnen).\ \r\n\ \r\n\ Version\:\ 4\r\n\ \r\n\ In\ dieser\ Version\ wird\ die\ Krabbe\ \u00FCber\ die\ Tastatur\ gesteuert\ und\ frisst\ W\u00FCrmer.\r\n\ In\ dieser\ Version\ haben\ wir\ einen\ Ton\ hinzugef\u00FCgt,\ wenn\ die\ Krabbe\ einen\ Wurm\ frisst.\r\n
+comment1.params=
+comment1.target=Crab()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\ \r\n\ Tut,\ was\ auch\ immer\ Krabben\ gerne\ tun.\ Diese\ Methode\ wird\ immer\ \r\n\ aufgerufen,\ wenn\ der\ 'Act'-\ oder\ der\ 'Run'-Button\ des\ Programms\ \r\n\ angeklickt\ werden.\r\n
+comment3.params=
+comment3.target=void\ switchImage()
+comment3.text=\r\n\ Bild\ wechseln\r\n
+comment4.params=
+comment4.target=void\ checkKeypress()
+comment4.text=\r\n\ Pr\u00FCft,\ ob\ eine\ Steuertaste\ auf\ der\ Tastatur\ gedr\u00FCckt\ wurde.\r\n\ Wenn\ ja,\ reagiert\ die\ Methode\ entsprechend.\r\n
+comment5.params=
+comment5.target=void\ lookForWorm()
+comment5.text=\r\n\ Pr\u00FCft,\ ob\ wir\ auf\ einen\ Wurm\ gesto\u00DFen\ sind.\r\n\ Wenn\ ja,\ wird\ er\ gefressen.\ Wenn\ nein,\ passiert\ nichts.\r\n
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Lobster
+comment0.text=\r\n\ Hummer\ (Lobster).\ Hummer\ leben\ am\ Strand.\ Sie\ fressen\ gerne\ Krabben.\ (Na\ ja,\ \r\n\ zumindest\ in\ unserem\ Spiel\ ...)\ \r\n\ \r\n\ Version\:\ 2\r\n\ \r\n\ Der\ Hummer\ bewegt\ sich\ nach\ dem\ Zufallsprinzip.\ Wenn\ er\ auf\ eine\ Krabbe\ trifft,\r\n\ frisst\ er\ sie.\ \r\n\ In\ dieser\ Version\ haben\ wir\ einen\ Soundeffekt\ hinzugef\u00FCgt.\ \r\n\ Das\ Spiel\ ist\ beendet,\ wenn\ ein\ Hummer\ eine\ Krabbe\ frisst.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Tut,\ was\ auch\ immer\ Hummer\ gerne\ tun.\r\n
+comment2.params=
+comment2.target=void\ turnAtEdge()
+comment2.text=\r\n\ Pr\u00FCft,\ ob\ wir\ den\ Rand\ der\ Welt\ erreicht\ haben.\ Wenn\ ja,\ wird\ ein\ wenig\ gewendet;\ \r\n\ wenn\ nein,\ passiert\ nichts.\r\n
+comment3.params=
+comment3.target=void\ randomTurn()
+comment3.text=\r\n\ Entscheidet\ nach\ dem\ Zufallsprinzip,\ die\ aktuelle\ Richtung\ zu\ verlassen.\ Dabei\ wird\r\n\ um\ eine\ zuf\u00E4llige\ Gradzahl\ nach\ links\ oder\ rechts\ gedreht.\r\n
+comment4.params=
+comment4.target=void\ lookForCrab()
+comment4.text=\r\n\ Versucht\ eine\ Krabbe\ zu\ fangen;\ d.h.\ pr\u00FCft,\ ob\ wir\ auf\ eine\ Krabbe\ gesto\u00DFen\ sind.\r\n\ Wenn\ ja,\ wird\ die\ Krabbe\ aus\ dem\ Spiel\ entfernt\ und\ die\ Ausf\u00FChrung\ des\ Programms\ beendet.\r\n
+numComments=5
