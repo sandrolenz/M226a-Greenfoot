@@ -1,7 +1,7 @@
 # M226a-Greenfoot
 Repository of the projects for M226a
 
-**🟢 Greenfoot:** https://sandrolenz.ch/work/school-m133
+**🟢 Greenfoot:** https://www.greenfoot.org/download
 
 ---
 
